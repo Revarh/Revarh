@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Revarh
 - 👀 I’m interested in PHP, CSS, HTML and JAVASCRIPT.
-- 🌱 I’m currently learning a bit of all
-- 💞️ I’m looking to collaborate on not much at the moment tbh.
+- 🌱 I’m currently learning REACT
+- 💞️ I’m not looking to collaborate at the moment tbh.
 - 📫 How to reach me: send me a message :)
 
 <!---
